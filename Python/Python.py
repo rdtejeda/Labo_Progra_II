@@ -11,5 +11,6 @@ valor = True
 print(type(a))
 print (valor) #una linae
 '''
+mas
 bloque
 '''
