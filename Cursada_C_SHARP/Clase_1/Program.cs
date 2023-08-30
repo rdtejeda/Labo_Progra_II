@@ -24,9 +24,12 @@ namespace Clase_1
             string suNombre;
             int edad;
 
+            //desde VC
+
            
             try
             {
+                Console.BackgroundColor = ConsoleColor.Blue;
                 Console.WriteLine("Ingrese su nombre");			
 			    suNombre = Console.ReadLine();
 
