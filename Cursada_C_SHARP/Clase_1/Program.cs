@@ -24,7 +24,7 @@ namespace Clase_1
             string suNombre;
             int edad;
 
-            //desde VC
+            //desde VC 2
 
            
             try
