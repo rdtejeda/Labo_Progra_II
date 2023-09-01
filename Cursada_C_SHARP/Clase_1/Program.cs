@@ -7,6 +7,8 @@ namespace Clase_1
     {
         static void Main(string[] args) //Entry point otra versi
         {
+            int numero = 4;
+            
             //         // Console.WriteLine("Hello, World!");//print - console.log() - printf
             //         int a;
             //         a = 4;
@@ -21,14 +23,16 @@ namespace Clase_1
             //         //int nuemr2= 3.5; no sirve conversion implicita
             //int nuemro = (int)3.1; //conversion explicta si permitida
             //Console.WriteLine(nuemro);
-            string suNombre;
-            int edad;
+            //string suNombre;
+            //int edad;
 
             //desde VC 2
 
            
             try
             {
+                string suNombre;
+                int edad;
                 Console.BackgroundColor = ConsoleColor.Blue;
                 Console.WriteLine("Ingrese su nombre");			
 			    suNombre = Console.ReadLine();
