@@ -1,0 +1,14 @@
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_C_SHARP\Ejercicio01\bin\Debug\net6.0\Clase_02nova mas.exe
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_C_SHARP\Ejercicio01\bin\Debug\net6.0\Clase_02nova mas.deps.json
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_C_SHARP\Ejercicio01\bin\Debug\net6.0\Clase_02nova mas.runtimeconfig.json
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_C_SHARP\Ejercicio01\bin\Debug\net6.0\Clase_02nova mas.dll
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_C_SHARP\Ejercicio01\bin\Debug\net6.0\Clase_02nova mas.pdb
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_C_SHARP\Ejercicio01\obj\Debug\net6.0\Clase_02nova mas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_C_SHARP\Ejercicio01\obj\Debug\net6.0\Clase_02nova mas.AssemblyInfoInputs.cache
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_C_SHARP\Ejercicio01\obj\Debug\net6.0\Clase_02nova mas.AssemblyInfo.cs
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_C_SHARP\Ejercicio01\obj\Debug\net6.0\Clase_02nova mas.csproj.CoreCompileInputs.cache
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_C_SHARP\Ejercicio01\obj\Debug\net6.0\Clase_02nova mas.dll
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_C_SHARP\Ejercicio01\obj\Debug\net6.0\refint\Clase_02nova mas.dll
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_C_SHARP\Ejercicio01\obj\Debug\net6.0\Clase_02nova mas.pdb
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_C_SHARP\Ejercicio01\obj\Debug\net6.0\Clase_02nova mas.genruntimeconfig.cache
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_C_SHARP\Ejercicio01\obj\Debug\net6.0\ref\Clase_02nova mas.dll

@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rober\\Documents\\GitHub\\Labo_Progra_II\\Cursada_C_SHARP\\Ejercicio01\\Ejercicio01.csproj",
-      "projectName": "Ejercicio01",
-      "projectPath": "C:\\Users\\rober\\Documents\\GitHub\\Labo_Progra_II\\Cursada_C_SHARP\\Ejercicio01\\Ejercicio01.csproj",
+      "projectUniqueName": "C:\\Users\\rober\\Documents\\GitHub\\Labo_Progra_II\\Cursada_C_SHARP\\Ejercicio01\\Clase_02nova mas.csproj",
+      "projectName": "Clase_02nova mas",
+      "projectPath": "C:\\Users\\rober\\Documents\\GitHub\\Labo_Progra_II\\Cursada_C_SHARP\\Ejercicio01\\Clase_02nova mas.csproj",
       "packagesPath": "C:\\Users\\rober\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\rober\\Documents\\GitHub\\Labo_Progra_II\\Cursada_C_SHARP\\Ejercicio01\\obj\\",
       "projectStyle": "PackageReference",

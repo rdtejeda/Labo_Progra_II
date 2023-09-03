@@ -1,0 +1,11 @@
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Apoyo_Sabado\ClassLibrary2\bin\Debug\net6.0\ClassLibrary2.deps.json
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Apoyo_Sabado\ClassLibrary2\bin\Debug\net6.0\ClassLibrary2.dll
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Apoyo_Sabado\ClassLibrary2\bin\Debug\net6.0\ClassLibrary2.pdb
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Apoyo_Sabado\ClassLibrary2\obj\Debug\net6.0\ClassLibrary2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Apoyo_Sabado\ClassLibrary2\obj\Debug\net6.0\ClassLibrary2.AssemblyInfoInputs.cache
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Apoyo_Sabado\ClassLibrary2\obj\Debug\net6.0\ClassLibrary2.AssemblyInfo.cs
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Apoyo_Sabado\ClassLibrary2\obj\Debug\net6.0\ClassLibrary2.csproj.CoreCompileInputs.cache
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Apoyo_Sabado\ClassLibrary2\obj\Debug\net6.0\ClassLibrary2.dll
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Apoyo_Sabado\ClassLibrary2\obj\Debug\net6.0\refint\ClassLibrary2.dll
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Apoyo_Sabado\ClassLibrary2\obj\Debug\net6.0\ClassLibrary2.pdb
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Apoyo_Sabado\ClassLibrary2\obj\Debug\net6.0\ref\ClassLibrary2.dll

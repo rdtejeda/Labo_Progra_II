@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rober\\Documents\\GitHub\\Labo_Progra_II\\Cursada_C_SHARP\\Clase_1\\Clase_1.csproj",
-      "projectName": "Clase_1",
-      "projectPath": "C:\\Users\\rober\\Documents\\GitHub\\Labo_Progra_II\\Cursada_C_SHARP\\Clase_1\\Clase_1.csproj",
+      "projectUniqueName": "C:\\Users\\rober\\Documents\\GitHub\\Labo_Progra_II\\Cursada_C_SHARP\\Clase_1\\Clase_01.csproj",
+      "projectName": "Clase_01",
+      "projectPath": "C:\\Users\\rober\\Documents\\GitHub\\Labo_Progra_II\\Cursada_C_SHARP\\Clase_1\\Clase_01.csproj",
       "packagesPath": "C:\\Users\\rober\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\rober\\Documents\\GitHub\\Labo_Progra_II\\Cursada_C_SHARP\\Clase_1\\obj\\",
       "projectStyle": "PackageReference",

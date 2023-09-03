@@ -1,0 +1,11 @@
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_C_SHARP\Operaciones\bin\Debug\net6.0\Operaciones.deps.json
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_C_SHARP\Operaciones\bin\Debug\net6.0\Operaciones.dll
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_C_SHARP\Operaciones\bin\Debug\net6.0\Operaciones.pdb
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_C_SHARP\Operaciones\obj\Debug\net6.0\Operaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_C_SHARP\Operaciones\obj\Debug\net6.0\Operaciones.AssemblyInfoInputs.cache
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_C_SHARP\Operaciones\obj\Debug\net6.0\Operaciones.AssemblyInfo.cs
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_C_SHARP\Operaciones\obj\Debug\net6.0\Operaciones.csproj.CoreCompileInputs.cache
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_C_SHARP\Operaciones\obj\Debug\net6.0\Operaciones.dll
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_C_SHARP\Operaciones\obj\Debug\net6.0\refint\Operaciones.dll
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_C_SHARP\Operaciones\obj\Debug\net6.0\Operaciones.pdb
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_C_SHARP\Operaciones\obj\Debug\net6.0\ref\Operaciones.dll
