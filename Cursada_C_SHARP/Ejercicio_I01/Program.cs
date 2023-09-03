@@ -1,5 +1,6 @@
 ﻿using Operaciones;
-
+//Ingresar 5 números por consola, guardándolos en una variable escalar.
+//Luego calcular y mostrar: el valor máximo, el valor mínimo y el promedio.
 namespace Ejercicio_I01
 {
     internal class Program
