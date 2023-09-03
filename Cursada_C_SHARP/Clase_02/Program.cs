@@ -1,4 +1,5 @@
 ﻿namespace Clase_02
+
 /*
 Crear la clase TextOperations y sus métodos estáticos para trabajar con cadenas.
 Métodos:
