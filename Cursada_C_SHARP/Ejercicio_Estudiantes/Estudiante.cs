@@ -10,8 +10,7 @@ namespace Ejercicio_Estudiantes
     internal class Estudiante
     {
         /*
-         * La clase Estudiante:
-         * Tendrá un constructor estático que inicializará el atributo estático random.
+         * La clase Estudiante: 
          * Tendrá un constructor de instancia que inicializará los atributos nombre, apellido y legajo.
          * El método setter SetNotaPrimerParcial permitirá cambiar el valor del atributo notaPrimerParcial.
          * El método setter SetNotaSegundoParcial permitirá cambiar el valor del atributo notaSegundoParcial.
@@ -31,7 +30,7 @@ namespace Ejercicio_Estudiantes
         public int notaPrimerParcial;
         public int notaSegundoParcial;
         static public Random random;
-
+        //Tendrá un constructor estático que inicializará el atributo estático random.
         static Estudiante() 
         {
            random = new Random();
