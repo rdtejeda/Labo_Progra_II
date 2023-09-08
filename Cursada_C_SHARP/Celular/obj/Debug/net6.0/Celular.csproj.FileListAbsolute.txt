@@ -1,0 +1,11 @@
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_C_SHARP\Celular\bin\Debug\net6.0\Celular.deps.json
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_C_SHARP\Celular\bin\Debug\net6.0\Celular.dll
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_C_SHARP\Celular\bin\Debug\net6.0\Celular.pdb
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_C_SHARP\Celular\obj\Debug\net6.0\Celular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_C_SHARP\Celular\obj\Debug\net6.0\Celular.AssemblyInfoInputs.cache
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_C_SHARP\Celular\obj\Debug\net6.0\Celular.AssemblyInfo.cs
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_C_SHARP\Celular\obj\Debug\net6.0\Celular.csproj.CoreCompileInputs.cache
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_C_SHARP\Celular\obj\Debug\net6.0\Celular.dll
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_C_SHARP\Celular\obj\Debug\net6.0\refint\Celular.dll
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_C_SHARP\Celular\obj\Debug\net6.0\Celular.pdb
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_C_SHARP\Celular\obj\Debug\net6.0\ref\Celular.dll

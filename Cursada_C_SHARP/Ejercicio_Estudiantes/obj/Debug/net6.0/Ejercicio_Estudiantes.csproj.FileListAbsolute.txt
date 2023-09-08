@@ -2,3 +2,13 @@ C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_C_SHARP\Ejercicio_Estudia
 C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_C_SHARP\Ejercicio_Estudiantes\obj\Debug\net6.0\Ejercicio_Estudiantes.AssemblyInfoInputs.cache
 C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_C_SHARP\Ejercicio_Estudiantes\obj\Debug\net6.0\Ejercicio_Estudiantes.AssemblyInfo.cs
 C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_C_SHARP\Ejercicio_Estudiantes\obj\Debug\net6.0\Ejercicio_Estudiantes.csproj.CoreCompileInputs.cache
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_C_SHARP\Ejercicio_Estudiantes\bin\Debug\net6.0\Ejercicio_Estudiantes.exe
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_C_SHARP\Ejercicio_Estudiantes\bin\Debug\net6.0\Ejercicio_Estudiantes.deps.json
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_C_SHARP\Ejercicio_Estudiantes\bin\Debug\net6.0\Ejercicio_Estudiantes.runtimeconfig.json
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_C_SHARP\Ejercicio_Estudiantes\bin\Debug\net6.0\Ejercicio_Estudiantes.dll
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_C_SHARP\Ejercicio_Estudiantes\bin\Debug\net6.0\Ejercicio_Estudiantes.pdb
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_C_SHARP\Ejercicio_Estudiantes\obj\Debug\net6.0\Ejercicio_Estudiantes.dll
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_C_SHARP\Ejercicio_Estudiantes\obj\Debug\net6.0\refint\Ejercicio_Estudiantes.dll
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_C_SHARP\Ejercicio_Estudiantes\obj\Debug\net6.0\Ejercicio_Estudiantes.pdb
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_C_SHARP\Ejercicio_Estudiantes\obj\Debug\net6.0\Ejercicio_Estudiantes.genruntimeconfig.cache
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_C_SHARP\Ejercicio_Estudiantes\obj\Debug\net6.0\ref\Ejercicio_Estudiantes.dll

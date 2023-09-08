@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Clase_04/1.0.0": {
+        "dependencies": {
+          "Celulares": "1.0.0"
+        },
+        "runtime": {
+          "Clase_04.dll": {}
+        }
+      },
+      "Celulares/1.0.0": {
+        "runtime": {
+          "Celulares.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Clase_04/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Celulares/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

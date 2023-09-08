@@ -6,7 +6,9 @@
         {
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Hi Che");
-            int ya=0;
+            int ya=0+9;
+            string s = "kk" + "ss";
+            
         }
     }
 }
