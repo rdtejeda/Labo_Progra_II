@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace GitB
 {
-    internal class Persona
+    internal class Person
     {
     }
 }
