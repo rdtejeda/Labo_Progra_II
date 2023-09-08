@@ -1,0 +1,14 @@
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_C_SHARP\EjercisioI07\bin\Debug\net6.0\Ejercisio_I07.exe
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_C_SHARP\EjercisioI07\bin\Debug\net6.0\Ejercisio_I07.deps.json
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_C_SHARP\EjercisioI07\bin\Debug\net6.0\Ejercisio_I07.runtimeconfig.json
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_C_SHARP\EjercisioI07\bin\Debug\net6.0\Ejercisio_I07.dll
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_C_SHARP\EjercisioI07\bin\Debug\net6.0\Ejercisio_I07.pdb
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_C_SHARP\EjercisioI07\obj\Debug\net6.0\Ejercisio_I07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_C_SHARP\EjercisioI07\obj\Debug\net6.0\Ejercisio_I07.AssemblyInfoInputs.cache
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_C_SHARP\EjercisioI07\obj\Debug\net6.0\Ejercisio_I07.AssemblyInfo.cs
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_C_SHARP\EjercisioI07\obj\Debug\net6.0\Ejercisio_I07.csproj.CoreCompileInputs.cache
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_C_SHARP\EjercisioI07\obj\Debug\net6.0\Ejercisio_I07.dll
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_C_SHARP\EjercisioI07\obj\Debug\net6.0\refint\Ejercisio_I07.dll
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_C_SHARP\EjercisioI07\obj\Debug\net6.0\Ejercisio_I07.pdb
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_C_SHARP\EjercisioI07\obj\Debug\net6.0\Ejercisio_I07.genruntimeconfig.cache
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_C_SHARP\EjercisioI07\obj\Debug\net6.0\ref\Ejercisio_I07.dll

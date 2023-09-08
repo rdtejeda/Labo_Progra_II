@@ -35,7 +35,7 @@ namespace Ejercicio_Estudiantes
         {
            random = new Random();
         }
-        public Estudiante(string apellido, string legajo, string nombre, 
+        public Estudiante(string apellido, string legajo, string nombre) 
         {
             this.apellido = apellido;
             this.legajo = legajo;
