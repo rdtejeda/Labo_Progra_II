@@ -1,0 +1,16 @@
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Forms\Clase_06\bin\Debug\net6.0-windows\Clase_06.exe
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Forms\Clase_06\bin\Debug\net6.0-windows\Clase_06.deps.json
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Forms\Clase_06\bin\Debug\net6.0-windows\Clase_06.runtimeconfig.json
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Forms\Clase_06\bin\Debug\net6.0-windows\Clase_06.dll
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Forms\Clase_06\bin\Debug\net6.0-windows\Clase_06.pdb
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Forms\Clase_06\obj\Debug\net6.0-windows\Clase_06.Form1.resources
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Forms\Clase_06\obj\Debug\net6.0-windows\Clase_06.csproj.GenerateResource.cache
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Forms\Clase_06\obj\Debug\net6.0-windows\Clase_06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Forms\Clase_06\obj\Debug\net6.0-windows\Clase_06.AssemblyInfoInputs.cache
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Forms\Clase_06\obj\Debug\net6.0-windows\Clase_06.AssemblyInfo.cs
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Forms\Clase_06\obj\Debug\net6.0-windows\Clase_06.csproj.CoreCompileInputs.cache
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Forms\Clase_06\obj\Debug\net6.0-windows\Clase_06.dll
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Forms\Clase_06\obj\Debug\net6.0-windows\refint\Clase_06.dll
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Forms\Clase_06\obj\Debug\net6.0-windows\Clase_06.pdb
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Forms\Clase_06\obj\Debug\net6.0-windows\Clase_06.genruntimeconfig.cache
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Forms\Clase_06\obj\Debug\net6.0-windows\ref\Clase_06.dll

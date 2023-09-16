@@ -33,9 +33,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rober\\Documents\\GitHub\\Labo_Progra_II\\Cursada_C_SHARP\\Clase_04\\Clase_04.csproj",
-      "projectName": "Clase_04",
-      "projectPath": "C:\\Users\\rober\\Documents\\GitHub\\Labo_Progra_II\\Cursada_C_SHARP\\Clase_04\\Clase_04.csproj",
+      "projectUniqueName": "C:\\Users\\rober\\Documents\\GitHub\\Labo_Progra_II\\Cursada_C_SHARP\\Clase_04\\Sobrecarga.csproj",
+      "projectName": "Sobrecarga",
+      "projectPath": "C:\\Users\\rober\\Documents\\GitHub\\Labo_Progra_II\\Cursada_C_SHARP\\Clase_04\\Sobrecarga.csproj",
       "packagesPath": "C:\\Users\\rober\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\rober\\Documents\\GitHub\\Labo_Progra_II\\Cursada_C_SHARP\\Clase_04\\obj\\",
       "projectStyle": "PackageReference",

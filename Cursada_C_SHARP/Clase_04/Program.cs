@@ -9,7 +9,7 @@ namespace Clase_04
             List<string> agenda = new List<string>();
             agenda.Add("1111");
             agenda.Add("2222");
-            Contacto uncontacto = new Contacto("Pepe", "11111");
+            Contacto uncontacto = new Contacto("Pepe", "1111");
             Celularess celularUno = new Celularess(EMarca.Apple, "14",8,128,true,agenda);
             Celularess celularDos = new Celularess(EMarca.Samsung, "S23", 32, 256,false);
             Celularess celularTres = new Celularess();
@@ -18,8 +18,10 @@ namespace Clase_04
             Console.WriteLine(celularTres.Modelo);
             celularUno.LLamar("1111");
             celularDos.LLamar("1111");
-            celularUno.LLamar(uncontacto);
 
+
+            celularUno.LLamar(agenda[0]);
+            
         }
     }
 }

@@ -17,6 +17,7 @@ namespace Celulares
         private bool encendido;
         private List<string> apps;
         private List<string> agenda;
+        private List<LLamada> listaLlamadas;
         #endregion
 
         #region Constructores
@@ -24,6 +25,7 @@ namespace Celulares
         {
             apps = new List<string>();
             agenda = new List<string>();
+            listaLlamadas = new List<LLamada>();
         }
 
         public Celularess(EMarca miMarca, string modelo, int ram, double almacenamiento, bool encendido) : this()
@@ -79,6 +81,14 @@ namespace Celulares
             if (this.encendido && BuscarEnAgenda(numero))/// separa y esle de ambos if
             {
                 Console.WriteLine($"Llamando al numero: {numero}");
+                LLamada nuevaLlamada = new LLamada(numero, DateTime.Now);
+                /*
+                 * EL tiempo que dure que aun no se como ponerlo en codigo
+                */
+                DateTime fechaFin= new DateTime(2023, 10, 13);
+                nuevaLlamada.CalculaDuracionLlamada(nuevaLlamada.FechaInicio, fechaFin);
+                listaLlamadas.Add(nuevaLlamada);         
+                
             }
             else
             {
@@ -90,9 +100,9 @@ namespace Celulares
         public void LLamar(Contacto unContacto)
         {
             //Encendido
-            if (this.encendido && BuscarEnAgenda(unContacto.numero))/// separa y esle de ambos if
+            if (this.encendido && BuscarEnAgenda(unContacto.Numero))/// separa y esle de ambos if
             {
-                Console.WriteLine($"Llamando al numero: {unContacto.numero}");
+                Console.WriteLine($"Llamando al numero: {unContacto.Numero}");
             }
             else
             {
@@ -139,7 +149,7 @@ namespace Celulares
             bool resultado = false;
             foreach (string aplicaciopn in unCelular.apps)
             {
-                if (aplicaciopn == unaApp.nombre)
+                if (aplicaciopn == unaApp.Nombre)
                 {
                     resultado = true;
                 }
@@ -158,10 +168,10 @@ namespace Celulares
 
 
         #endregion
-        public override string ToString()
-        {
-            return this.ToString(); 
-        }
+        //public override string ToString()
+        //{
+        //    return this.ToString(); 
+        //}
 
     }
 }
