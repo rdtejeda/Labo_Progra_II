@@ -45,11 +45,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GitB", "GitB\GitB.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sobrecarga", "Clase_04\Sobrecarga.csproj", "{9775146B-F31B-44B8-9C9E-4DDA2A8AFD72}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Celulares", "Celular\Celulares.csproj", "{2D57F3E1-B36C-4142-B35A-B80EEA8D87A0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClasesNegocio", "Celular\ClasesNegocio.csproj", "{2D57F3E1-B36C-4142-B35A-B80EEA8D87A0}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sobrecarga", "Sobrecarga", "{537B53CE-52E2-4D1F-B2DB-2AA1E9AC23F9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listas", "Listas\Listas.csproj", "{2BC1F401-2083-44EA-96F4-3535D65465FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listas", "Listas\Listas.csproj", "{2BC1F401-2083-44EA-96F4-3535D65465FB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

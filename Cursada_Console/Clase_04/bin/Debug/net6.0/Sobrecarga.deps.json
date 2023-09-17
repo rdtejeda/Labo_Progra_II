@@ -8,15 +8,15 @@
     ".NETCoreApp,Version=v6.0": {
       "Sobrecarga/1.0.0": {
         "dependencies": {
-          "Celulares": "1.0.0"
+          "ClasesNegocio": "1.0.0"
         },
         "runtime": {
           "Sobrecarga.dll": {}
         }
       },
-      "Celulares/1.0.0": {
+      "ClasesNegocio/1.0.0": {
         "runtime": {
-          "Celulares.dll": {}
+          "ClasesNegocio.dll": {}
         }
       }
     }
@@ -27,7 +27,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "Celulares/1.0.0": {
+    "ClasesNegocio/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

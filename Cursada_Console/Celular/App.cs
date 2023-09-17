@@ -4,21 +4,24 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Celulares
+namespace ClasesNegocio
 {
-    public class Apps
+    public class App
     {
         private string nombre;
-        private int size;
+        private double size;
+        public App()
+        {
 
-        public Apps(string nombre, int size)
+        }
+        public App(string nombre, double size)
         {
             this.Nombre = nombre;
             this.Size = size;
         }
         public string Nombre { get=>nombre; set=>nombre=value; }
-        public int Size { get=>size; set=>size=value; }
-        public string MostrarApp(Apps laApp)
+        public double Size { get=>size; set=>size=value; }
+        public string MostrarApp(App laApp)
         {
             StringBuilder sb = new StringBuilder();
             sb.Append($"Nombre de la aplicacion: {this.nombre}");
@@ -26,13 +29,13 @@ namespace Celulares
             return sb.ToString();
         }
         // Sobrecarga del operador explícito para convertir App a string
-        public static explicit operator string(Apps laApp)
+        public static explicit operator string(App laApp)
         {
             return $"{laApp.Nombre} ({laApp.Size} GB)";
         }
 
         // Sobrecarga del operador explícito para convertir App a double
-        public static implicit operator double(Apps laApp)
+        public static implicit operator double(App laApp)
         {
             return laApp.Size;
         }
