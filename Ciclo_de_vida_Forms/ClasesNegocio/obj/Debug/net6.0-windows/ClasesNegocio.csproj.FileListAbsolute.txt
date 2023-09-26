@@ -1,0 +1,11 @@
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Ciclo_de_vida_Forms\ClasesNegocio\bin\Debug\net6.0-windows\ClasesNegocio.deps.json
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Ciclo_de_vida_Forms\ClasesNegocio\bin\Debug\net6.0-windows\ClasesNegocio.dll
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Ciclo_de_vida_Forms\ClasesNegocio\bin\Debug\net6.0-windows\ClasesNegocio.pdb
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Ciclo_de_vida_Forms\ClasesNegocio\obj\Debug\net6.0-windows\ClasesNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Ciclo_de_vida_Forms\ClasesNegocio\obj\Debug\net6.0-windows\ClasesNegocio.AssemblyInfoInputs.cache
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Ciclo_de_vida_Forms\ClasesNegocio\obj\Debug\net6.0-windows\ClasesNegocio.AssemblyInfo.cs
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Ciclo_de_vida_Forms\ClasesNegocio\obj\Debug\net6.0-windows\ClasesNegocio.csproj.CoreCompileInputs.cache
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Ciclo_de_vida_Forms\ClasesNegocio\obj\Debug\net6.0-windows\ClasesNegocio.dll
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Ciclo_de_vida_Forms\ClasesNegocio\obj\Debug\net6.0-windows\refint\ClasesNegocio.dll
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Ciclo_de_vida_Forms\ClasesNegocio\obj\Debug\net6.0-windows\ClasesNegocio.pdb
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Ciclo_de_vida_Forms\ClasesNegocio\obj\Debug\net6.0-windows\ref\ClasesNegocio.dll

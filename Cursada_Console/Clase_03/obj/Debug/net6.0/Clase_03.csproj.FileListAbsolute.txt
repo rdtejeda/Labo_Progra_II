@@ -12,3 +12,17 @@ C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_C_SHARP\Clase_03\obj\Debu
 C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_C_SHARP\Clase_03\obj\Debug\net6.0\Clase_03.pdb
 C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_C_SHARP\Clase_03\obj\Debug\net6.0\Clase_03.genruntimeconfig.cache
 C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_C_SHARP\Clase_03\obj\Debug\net6.0\ref\Clase_03.dll
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_Console\Clase_03\bin\Debug\net6.0\Clase_03.exe
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_Console\Clase_03\bin\Debug\net6.0\Clase_03.deps.json
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_Console\Clase_03\bin\Debug\net6.0\Clase_03.runtimeconfig.json
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_Console\Clase_03\bin\Debug\net6.0\Clase_03.dll
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_Console\Clase_03\bin\Debug\net6.0\Clase_03.pdb
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_Console\Clase_03\obj\Debug\net6.0\Clase_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_Console\Clase_03\obj\Debug\net6.0\Clase_03.AssemblyInfoInputs.cache
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_Console\Clase_03\obj\Debug\net6.0\Clase_03.AssemblyInfo.cs
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_Console\Clase_03\obj\Debug\net6.0\Clase_03.csproj.CoreCompileInputs.cache
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_Console\Clase_03\obj\Debug\net6.0\Clase_03.dll
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_Console\Clase_03\obj\Debug\net6.0\refint\Clase_03.dll
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_Console\Clase_03\obj\Debug\net6.0\Clase_03.pdb
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_Console\Clase_03\obj\Debug\net6.0\Clase_03.genruntimeconfig.cache
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_Console\Clase_03\obj\Debug\net6.0\ref\Clase_03.dll

@@ -1,0 +1,14 @@
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_Console\El_viajar_es_un_placer\bin\Debug\net6.0\El_viajar_es_un_placer.exe
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_Console\El_viajar_es_un_placer\bin\Debug\net6.0\El_viajar_es_un_placer.deps.json
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_Console\El_viajar_es_un_placer\bin\Debug\net6.0\El_viajar_es_un_placer.runtimeconfig.json
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_Console\El_viajar_es_un_placer\bin\Debug\net6.0\El_viajar_es_un_placer.dll
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_Console\El_viajar_es_un_placer\bin\Debug\net6.0\El_viajar_es_un_placer.pdb
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_Console\El_viajar_es_un_placer\obj\Debug\net6.0\El_viajar_es_un_placer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_Console\El_viajar_es_un_placer\obj\Debug\net6.0\El_viajar_es_un_placer.AssemblyInfoInputs.cache
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_Console\El_viajar_es_un_placer\obj\Debug\net6.0\El_viajar_es_un_placer.AssemblyInfo.cs
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_Console\El_viajar_es_un_placer\obj\Debug\net6.0\El_viajar_es_un_placer.csproj.CoreCompileInputs.cache
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_Console\El_viajar_es_un_placer\obj\Debug\net6.0\El_viajar_es_un_placer.dll
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_Console\El_viajar_es_un_placer\obj\Debug\net6.0\refint\El_viajar_es_un_placer.dll
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_Console\El_viajar_es_un_placer\obj\Debug\net6.0\El_viajar_es_un_placer.pdb
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_Console\El_viajar_es_un_placer\obj\Debug\net6.0\El_viajar_es_un_placer.genruntimeconfig.cache
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_Console\El_viajar_es_un_placer\obj\Debug\net6.0\ref\El_viajar_es_un_placer.dll

@@ -12,3 +12,17 @@ C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_C_SHARP\Ejercisio_I04\obj
 C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_C_SHARP\Ejercisio_I04\obj\Debug\net6.0\Ejercisio_I04.pdb
 C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_C_SHARP\Ejercisio_I04\obj\Debug\net6.0\Ejercisio_I04.genruntimeconfig.cache
 C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_C_SHARP\Ejercisio_I04\obj\Debug\net6.0\ref\Ejercisio_I04.dll
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_Console\Ejercisio_I04\bin\Debug\net6.0\Ejercisio_I04.exe
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_Console\Ejercisio_I04\bin\Debug\net6.0\Ejercisio_I04.deps.json
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_Console\Ejercisio_I04\bin\Debug\net6.0\Ejercisio_I04.runtimeconfig.json
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_Console\Ejercisio_I04\bin\Debug\net6.0\Ejercisio_I04.dll
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_Console\Ejercisio_I04\bin\Debug\net6.0\Ejercisio_I04.pdb
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_Console\Ejercisio_I04\obj\Debug\net6.0\Ejercisio_I04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_Console\Ejercisio_I04\obj\Debug\net6.0\Ejercisio_I04.AssemblyInfoInputs.cache
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_Console\Ejercisio_I04\obj\Debug\net6.0\Ejercisio_I04.AssemblyInfo.cs
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_Console\Ejercisio_I04\obj\Debug\net6.0\Ejercisio_I04.csproj.CoreCompileInputs.cache
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_Console\Ejercisio_I04\obj\Debug\net6.0\Ejercisio_I04.dll
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_Console\Ejercisio_I04\obj\Debug\net6.0\refint\Ejercisio_I04.dll
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_Console\Ejercisio_I04\obj\Debug\net6.0\Ejercisio_I04.pdb
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_Console\Ejercisio_I04\obj\Debug\net6.0\Ejercisio_I04.genruntimeconfig.cache
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_Console\Ejercisio_I04\obj\Debug\net6.0\ref\Ejercisio_I04.dll

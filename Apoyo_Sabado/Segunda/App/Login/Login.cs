@@ -48,7 +48,6 @@ namespace Login
                     }
                 }
             }
-
             if (!encontroUsuario)
             {
                 MessageBox.Show("No encontro usuario.", "ERROR", MessageBoxButtons.OK, MessageBoxIcon.Error);

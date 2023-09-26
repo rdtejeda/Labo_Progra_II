@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="El_viajar_es_un_placer.VehiculoTerrestre">
+    <Position X="4.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAIQAAAAEAAAACAAAAAgAAAAAA=</HashCode>
+      <FileName>VehiculoTerrestre.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="El_viajar_es_un_placer.Automovil">
+    <Position X="9.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAAAAAAAAAABAAAAgQAAAAAAAAAAA=</HashCode>
+      <FileName>Automovil.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="El_viajar_es_un_placer.Camion">
+    <Position X="8" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgABAAIAAQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Camion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="El_viajar_es_un_placer.Moto">
+    <Position X="1.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAgAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Moto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="El_viajar_es_un_placer.EColor" Collapsed="true">
+    <Position X="14" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAABAAAAAAAAAAAAQAAAAAAAAAAAAQAAAAACAAAAA=</HashCode>
+      <FileName>EColor.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

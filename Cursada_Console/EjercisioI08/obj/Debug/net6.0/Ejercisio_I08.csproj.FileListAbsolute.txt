@@ -12,3 +12,17 @@ C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_C_SHARP\EjercisioI08\obj\
 C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_C_SHARP\EjercisioI08\obj\Debug\net6.0\Ejercisio_I08.pdb
 C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_C_SHARP\EjercisioI08\obj\Debug\net6.0\Ejercisio_I08.genruntimeconfig.cache
 C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_C_SHARP\EjercisioI08\obj\Debug\net6.0\ref\Ejercisio_I08.dll
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_Console\EjercisioI08\bin\Debug\net6.0\Ejercisio_I08.exe
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_Console\EjercisioI08\bin\Debug\net6.0\Ejercisio_I08.deps.json
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_Console\EjercisioI08\bin\Debug\net6.0\Ejercisio_I08.runtimeconfig.json
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_Console\EjercisioI08\bin\Debug\net6.0\Ejercisio_I08.dll
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_Console\EjercisioI08\bin\Debug\net6.0\Ejercisio_I08.pdb
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_Console\EjercisioI08\obj\Debug\net6.0\Ejercisio_I08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_Console\EjercisioI08\obj\Debug\net6.0\Ejercisio_I08.AssemblyInfoInputs.cache
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_Console\EjercisioI08\obj\Debug\net6.0\Ejercisio_I08.AssemblyInfo.cs
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_Console\EjercisioI08\obj\Debug\net6.0\Ejercisio_I08.csproj.CoreCompileInputs.cache
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_Console\EjercisioI08\obj\Debug\net6.0\Ejercisio_I08.dll
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_Console\EjercisioI08\obj\Debug\net6.0\refint\Ejercisio_I08.dll
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_Console\EjercisioI08\obj\Debug\net6.0\Ejercisio_I08.pdb
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_Console\EjercisioI08\obj\Debug\net6.0\Ejercisio_I08.genruntimeconfig.cache
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_Console\EjercisioI08\obj\Debug\net6.0\ref\Ejercisio_I08.dll

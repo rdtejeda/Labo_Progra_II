@@ -9,3 +9,14 @@ C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_C_SHARP\Operaciones\obj\D
 C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_C_SHARP\Operaciones\obj\Debug\net6.0\refint\BibliotecaOperadores.dll
 C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_C_SHARP\Operaciones\obj\Debug\net6.0\BibliotecaOperadores.pdb
 C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_C_SHARP\Operaciones\obj\Debug\net6.0\ref\BibliotecaOperadores.dll
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_Console\Operaciones\bin\Debug\net6.0\BibliotecaOperadores.deps.json
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_Console\Operaciones\bin\Debug\net6.0\BibliotecaOperadores.dll
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_Console\Operaciones\bin\Debug\net6.0\BibliotecaOperadores.pdb
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_Console\Operaciones\obj\Debug\net6.0\BibliotecaOperadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_Console\Operaciones\obj\Debug\net6.0\BibliotecaOperadores.AssemblyInfoInputs.cache
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_Console\Operaciones\obj\Debug\net6.0\BibliotecaOperadores.AssemblyInfo.cs
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_Console\Operaciones\obj\Debug\net6.0\BibliotecaOperadores.csproj.CoreCompileInputs.cache
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_Console\Operaciones\obj\Debug\net6.0\BibliotecaOperadores.dll
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_Console\Operaciones\obj\Debug\net6.0\refint\BibliotecaOperadores.dll
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_Console\Operaciones\obj\Debug\net6.0\BibliotecaOperadores.pdb
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_Console\Operaciones\obj\Debug\net6.0\ref\BibliotecaOperadores.dll

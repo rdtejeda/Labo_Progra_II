@@ -1,0 +1,6 @@
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_Console\FormsCelular\obj\Debug\net6.0-windows\FormsCelular.FormLogin.resources
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_Console\FormsCelular\obj\Debug\net6.0-windows\FormsCelular.csproj.GenerateResource.cache
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_Console\FormsCelular\obj\Debug\net6.0-windows\FormsCelular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_Console\FormsCelular\obj\Debug\net6.0-windows\FormsCelular.AssemblyInfoInputs.cache
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_Console\FormsCelular\obj\Debug\net6.0-windows\FormsCelular.AssemblyInfo.cs
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Cursada_Console\FormsCelular\obj\Debug\net6.0-windows\FormsCelular.csproj.CoreCompileInputs.cache
