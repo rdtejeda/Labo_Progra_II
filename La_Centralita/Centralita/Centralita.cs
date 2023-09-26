@@ -77,14 +77,18 @@ namespace Centralita
         public string Mostrar()
         {
             StringBuilder sb = new StringBuilder();
+            sb.AppendLine("=======================================");
             sb.AppendLine($"La razon social es : {RazonSocial}");
+            sb.AppendLine("=======================================");
             foreach (var llamada in Llamadas)
             {
                 sb.AppendLine(llamada.Mostrar());                
             }
+            sb.AppendLine("=======================================");
             sb.AppendLine($"Ganancias por llamadas locales: {GanaciasPorLocal}");
             sb.AppendLine($"Ganancias por llamadas Provinciales: {GananciasPorProvincial}");
             sb.AppendLine($"Ganancias por llamadas Totales: {GananciasPorTotal}");
+            sb.AppendLine("=======================================");
             return  sb.ToString();    
         }
         public void OrdenarLlamadas()

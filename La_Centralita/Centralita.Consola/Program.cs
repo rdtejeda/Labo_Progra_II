@@ -26,6 +26,7 @@
             Console.WriteLine(c.Mostrar());
 
             c.OrdenarLlamadas();
+            Console.WriteLine("===== VOY A ORDENAR LA LISTA =====");
             Console.WriteLine(c.Mostrar());
 
             Console.ReadKey();
