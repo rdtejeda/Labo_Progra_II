@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfEmpleado xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Empleado xsi:type="Cadete">
+    <Nombre>Luis</Nombre>
+    <Salario>6</Salario>
+    <TieneMoto>true</TieneMoto>
+  </Empleado>
+  <Empleado xsi:type="Administrativo">
+    <Nombre>Pepe</Nombre>
+    <Salario>13</Salario>
+  </Empleado>
+  <Empleado xsi:type="Cadete">
+    <Nombre>Andrea</Nombre>
+    <Salario>4</Salario>
+    <TieneMoto>false</TieneMoto>
+  </Empleado>
+  <Empleado xsi:type="Cadete">
+    <Nombre>Andrea</Nombre>
+    <Salario>4</Salario>
+    <TieneMoto>false</TieneMoto>
+  </Empleado>
+</ArrayOfEmpleado>
