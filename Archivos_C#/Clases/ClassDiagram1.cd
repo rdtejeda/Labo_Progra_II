@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1">
   <Class Name="Clases.Administrativo">
-    <Position X="5.75" Y="1" Width="1.5" />
+    <Position X="4.25" Y="0.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAACAAAAAgAAAQEAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Administrativo.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Clases.Cadete">
-    <Position X="4" Y="2.5" Width="1.5" />
+    <Position X="2.25" Y="3.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAIAAAACAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Cadete.cs</FileName>

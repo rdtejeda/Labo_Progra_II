@@ -1,0 +1,14 @@
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Excepciones_Clase\ExcepcionesObjetos\bin\Debug\net6.0\ExcepcionesObjetos.exe
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Excepciones_Clase\ExcepcionesObjetos\bin\Debug\net6.0\ExcepcionesObjetos.deps.json
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Excepciones_Clase\ExcepcionesObjetos\bin\Debug\net6.0\ExcepcionesObjetos.runtimeconfig.json
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Excepciones_Clase\ExcepcionesObjetos\bin\Debug\net6.0\ExcepcionesObjetos.dll
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Excepciones_Clase\ExcepcionesObjetos\bin\Debug\net6.0\ExcepcionesObjetos.pdb
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Excepciones_Clase\ExcepcionesObjetos\obj\Debug\net6.0\ExcepcionesObjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Excepciones_Clase\ExcepcionesObjetos\obj\Debug\net6.0\ExcepcionesObjetos.AssemblyInfoInputs.cache
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Excepciones_Clase\ExcepcionesObjetos\obj\Debug\net6.0\ExcepcionesObjetos.AssemblyInfo.cs
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Excepciones_Clase\ExcepcionesObjetos\obj\Debug\net6.0\ExcepcionesObjetos.csproj.CoreCompileInputs.cache
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Excepciones_Clase\ExcepcionesObjetos\obj\Debug\net6.0\ExcepcionesObjetos.dll
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Excepciones_Clase\ExcepcionesObjetos\obj\Debug\net6.0\refint\ExcepcionesObjetos.dll
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Excepciones_Clase\ExcepcionesObjetos\obj\Debug\net6.0\ExcepcionesObjetos.pdb
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Excepciones_Clase\ExcepcionesObjetos\obj\Debug\net6.0\ExcepcionesObjetos.genruntimeconfig.cache
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Excepciones_Clase\ExcepcionesObjetos\obj\Debug\net6.0\ref\ExcepcionesObjetos.dll

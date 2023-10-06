@@ -1,0 +1,16 @@
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Excepciones_Clase\FormException\bin\Debug\net6.0-windows\FormException.exe
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Excepciones_Clase\FormException\bin\Debug\net6.0-windows\FormException.deps.json
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Excepciones_Clase\FormException\bin\Debug\net6.0-windows\FormException.runtimeconfig.json
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Excepciones_Clase\FormException\bin\Debug\net6.0-windows\FormException.dll
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Excepciones_Clase\FormException\bin\Debug\net6.0-windows\FormException.pdb
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Excepciones_Clase\FormException\obj\Debug\net6.0-windows\FormException.Form1.resources
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Excepciones_Clase\FormException\obj\Debug\net6.0-windows\FormException.csproj.GenerateResource.cache
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Excepciones_Clase\FormException\obj\Debug\net6.0-windows\FormException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Excepciones_Clase\FormException\obj\Debug\net6.0-windows\FormException.AssemblyInfoInputs.cache
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Excepciones_Clase\FormException\obj\Debug\net6.0-windows\FormException.AssemblyInfo.cs
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Excepciones_Clase\FormException\obj\Debug\net6.0-windows\FormException.csproj.CoreCompileInputs.cache
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Excepciones_Clase\FormException\obj\Debug\net6.0-windows\FormException.dll
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Excepciones_Clase\FormException\obj\Debug\net6.0-windows\refint\FormException.dll
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Excepciones_Clase\FormException\obj\Debug\net6.0-windows\FormException.pdb
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Excepciones_Clase\FormException\obj\Debug\net6.0-windows\FormException.genruntimeconfig.cache
+C:\Users\rober\Documents\GitHub\Labo_Progra_II\Excepciones_Clase\FormException\obj\Debug\net6.0-windows\ref\FormException.dll

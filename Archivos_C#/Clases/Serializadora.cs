@@ -30,14 +30,12 @@ namespace Manejador_Archivo
         public static void EscririJSON(string path,List<Empleado> lista)
         {
             try
-            {
-                
+            {                
                 string json = JsonConvert.SerializeObject(lista,Newtonsoft.Json.Formatting.Indented);
                 File.WriteAllText(path, json);
             }
             catch (Exception)
             {
-
                 throw;
             }
         }
